@@ -1,1 +1,1 @@
-registration_form using HTML CSS JS
+registration_form using HTML CSS JavaScript
